@@ -1,4 +1,4 @@
-# ID_CARD_DETECTION_SYSTEM
+# FaceRecognizer
 
 ## Overview
 
@@ -74,11 +74,6 @@ This project uses the Sqlite3 database and the GUI of this project has been deve
         ```
         pip3 install -r requirements_client.txt
         ```
-- Database Installation
-
-    On the LattePanda, after installing Sqlite3, please make new folder named "database" in this project directory and 
-    copy the face database named "face_db.db" into the new database folder.
-
 ## Execution
 
 - Please run the following command in this project directory on terminal
@@ -93,7 +88,3 @@ This project uses the Sqlite3 database and the GUI of this project has been deve
         ```
         python3 app_client.py
         ```
-
-## Note
-
-- Once the device is fixed, please don't change the values in config file.
