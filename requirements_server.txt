@@ -1,0 +1,5 @@
+face_recognition
+pyautogui
+opencv-python
+dlib
+keras

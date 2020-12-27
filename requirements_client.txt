@@ -1,0 +1,9 @@
+opencv-python
+PyQt5
+scrollphathd
+gpiozero
+imutils
+pytesseract
+board
+neopixel
+picamera
